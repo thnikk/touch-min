@@ -14,7 +14,7 @@ bool lastPressed[2];
 int qt[2];
 
 int threshold = 100;
-int target = 800;
+int target = 900;
 
 char mapping[] = { 'z', 'x' };
 
